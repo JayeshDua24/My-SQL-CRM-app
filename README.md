@@ -3,7 +3,6 @@
 
 # Objective
 Build CRM for Small, Medium and Large Organizations<br/>
-R
  
 ## Technologies
 ## Option 1:
